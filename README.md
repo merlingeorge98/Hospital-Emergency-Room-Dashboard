@@ -10,3 +10,14 @@ This project utilizes the following dataset hosted on Kaggle:
 * **Description:** A comprehensive dataset compiling patient information from a hospital emergency room (ER) dashboard, ideal for analytics regarding patient demographics and operational efficiency.
 
 *Thank you to the author for compiling and sharing this data publicly.*
+
+## Project Overview
+
+This project analyzes hospital emergency room data to understand patient flow, waiting times, admissions, referrals, and patient satisfaction.
+
+## Tools
+
+- Excel
+- SQL
+- Power BI
+- Python (Pandas)
