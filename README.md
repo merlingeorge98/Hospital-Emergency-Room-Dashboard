@@ -34,21 +34,20 @@ The objective of this project is to :
 
 ## Dataset Information
 
-----------------------------------------------------------------------------------
-Column                    |  Data Type               | Description
-----------------------------------------------------------------------------------
-Patient Id                   Text                        unique patient identifier
-Patient Admission Date       Date Time                    Date and time patient arrived ER
-Patient First Initial        Text                        first name initial
-Patient Last Name            Text                        patient last name
-Patient Gender               Category (Text)             Gender (M/F)
-Patient Age                  Integer                     age in years
-Patient Race                 Category(Text)              ethnicity
-Department Referral          Category(Text)              Specialist department referred
-Patient Admission Flag       Boolean                     Admitted or Discharged
-Patient Satisfaction Score   Integer                     rating 
-Patient Waittime             Integer                     waiting time in minutes
-Patient CM                   Binary(integer),             meaning yet to be confirmed(not available on original dataset)
+| Column Name | Data Type | Description |
+|------------|-----------|-------------|
+| **Patient ID** | Text | Unique patient identifier. |
+| **Patient Admission Date** | Date & Time | Date and time the patient arrived at the Emergency Room. |
+| **Patient First Initial** | Text | First name initial of the patient. |
+| **Patient Last Name** | Text | Patient's last name. |
+| **Patient Gender** | Category (Text) | Patient's gender (Male/Female). |
+| **Patient Age** | Integer | Patient age in years. |
+| **Patient Race** | Category (Text) | Patient's race/ethnicity. |
+| **Department Referral** | Category (Text) | Specialist department to which the patient was referred. |
+| **Patient Admission Flag** | Boolean | Indicates whether the patient was **Admitted** or **Discharged**. |
+| **Patient Satisfaction Score** | Integer | Patient satisfaction rating. |
+| **Patient Wait Time** | Integer | Waiting time in minutes before receiving treatment. |
+| **Patient CM** | Binary (Integer) | Column available in the dataset, but its meaning is not documented in the original dataset. Therefore, it was excluded from the analysis. |
 
 ## 🧹Data Cleaning
 
