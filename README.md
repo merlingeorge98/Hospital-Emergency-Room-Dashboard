@@ -95,3 +95,75 @@ Age Categories ->
 | Weekend        | Weekend or Weekday                      |
 | Age_Group      | Grouped patient ages                    |
 
+## Business Questions
+  * Total number of patients
+  * How many patients were admitted
+  * Average wait time going rate
+  * Which department has the most referrals
+  * Is wait time consistent with age?
+  * Which time of day is busiest?
+
+
+## SQL Analysis
+The following questions were answered using MySQL
+  ## Patient Analysis
+   * Total Patients
+   * Total Admissions
+   * Admission Rate
+   * Average Wait Time
+   * Average Satisfaction Score
+ ## Time Analysis
+   * Monthly Patient Trend
+   * Patients by Day of Week
+   * Patients by Hour
+   * Weekday vs Weekend Visits
+
+ ## Demographic Analysis
+   * Patients by Age Category
+   * Patients by Gender
+   * Patients by Race
+ ## Department Analysis
+   * Department Referral Distribution
+   * Average Wait Time by Department
+
+## Dashboard Pages
+   ## Page 1 — Executive Overview
+     Displays:
+          * Total Patients
+          * Total Admissions
+          * Admission Rate
+          * Average Wait Time
+          * Average Satisfaction Score
+          * Monthly Patient Trend
+          * Admissions Distribution
+          * Department Referrals
+
+   ## Page 2 — Patient Demographics
+     Displays:
+          * Patients by Gender
+          * Patients by Race
+          * Patients by Age Category
+          * Weekend vs Weekday Visits
+          * Average Wait Time by Gender
+          * Satisfaction Distribution
+   ## Page 3 - Operational Analysis
+    Displays
+          * Hourly Patient Heatmap
+          * Patients by Hour
+          * Patients by Day of Week
+          * Average Wait Time by Department
+          * Average Wait Time by Age Category
+
+## Dashboard Preview
+ ## Page 1
+ <img width="1445" height="812" alt="hospitalEROverviewDashboard" src="https://github.com/user-attachments/assets/212a4635-1521-417c-813b-e63da188c552" />
+ ## Page 2
+<img width="1446" height="807" alt="patientDemographicDashboard2" src="https://github.com/user-attachments/assets/43df6e45-1657-4472-b842-fec301c6ef22" />
+ ## Page 3
+<img width="1442" height="806" alt="OperationalDashboard3" src="https://github.com/user-attachments/assets/2f15505c-8029-4731-af70-75a1efab7f4e" />
+
+
+
+
+
+
