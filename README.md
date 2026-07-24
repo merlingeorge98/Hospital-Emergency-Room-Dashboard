@@ -1,5 +1,8 @@
 # Hospital-Emergency-Room-Dashboard
-project showing hospital emergency room dataset and how the factors help in decision making, getting insights.
+
+## Project Overview
+
+This project analyses the Hospital Emergency Dataset to uncover insights into patient visits, admissions, waiting times, department referrals, demographics, and operational trends. The data was cleaned using Excel Power Query and analysed using MySQL, and visualized with an interactive Power BI Dashboard.
 
 ## Acknowledgements
 
@@ -11,13 +14,20 @@ This project utilizes the following dataset hosted on Kaggle:
 
 *Thank you to the author for compiling and sharing this data publicly.*
 
-## Project Overview
+## Project Objectives 
+The objective of this project is to :
+* Analyse patient trends over time
+* Measure Emergency room admissions
+* Evaluate the patient waiting time
+* Understand the patient demographics
+* Identify department referrals
+* Build an interactive dashboard for healthcare decision-making
 
-This project analyzes hospital emergency room data to understand patient flow, waiting times, admissions, referrals, and patient satisfaction.
 
-## Tools
+## Tools and Technologies
 
-- Excel
-- SQL
-- Power BI
-- Python (Pandas)
+Excel(PowerQuery) ---- Data Cleaning and Transformation
+MySQL             ---- Data Analysis
+Power BI          ---- Dashboard and Visualisation
+GitHub            ---- Project Documentation
+
