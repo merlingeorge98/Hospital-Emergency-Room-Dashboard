@@ -163,7 +163,33 @@ The following questions were answered using MySQL
 <img width="1442" height="806" alt="OperationalDashboard3" src="https://github.com/user-attachments/assets/2f15505c-8029-4731-af70-75a1efab7f4e" />
 
 
+## Key Insights
+* Over 9216 patients visited the Emergency Room.
+* Approximately 50% of patients were admitted
+* The average wait time was found to be 35 mins.
+* Out of the satisfaction rates data, we got 4.9 was the rating. 
+* The General Practice Department had received high referrals
+* The patient flow has increased from 5k in the year 2023 to 9k total in year 2024.
+* Weekdays had more patients than on weekends.
+* Among all the patients, White race people were a major category
+* And the Children category had more patients in the ER Room
+* The wait time relation with age category we could see older adults had less wait time comparatively
+* In both years, on Saturday we had a high number of patients    
+* And on the heat map, we could see nighttime had more patients, so Friday and Saturday night shifts needed more staff.
 
 
+## Skills Demonstrated 
+* Data Cleaning
+* Data Transformation
+* SQL Querying
+* Business Analysis
+* Data Visualization
+* Dashboard Design
+* KPI Development
+* Power BI
+* Excel Power Query
+* MySQL
 
-
+## Contact
+  ## Merlin George
+   * LinkedIn - www.linkedin.com/in/george-merlin
